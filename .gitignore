@@ -1,0 +1,11 @@
+# Fichiers temporaires Power BI et Windows
+*.tmp
+~$*
+*.~*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de cache locaux
+*.bak
+*.log
